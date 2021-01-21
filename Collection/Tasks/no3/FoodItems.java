@@ -1,4 +1,4 @@
-package com.xworkz.java_programs.collection.assignment.no3;
+package collection.tasks.no3;
 
 import java.util.ArrayList;
 import java.util.Collection;
