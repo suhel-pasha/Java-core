@@ -1,4 +1,4 @@
-package com.xworkz.java_programs.collection.collection2.arraylist.ex2;
+package collection.arraylist.example2;
 
 public class MoviesDTO {
 	

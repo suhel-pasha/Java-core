@@ -1,4 +1,4 @@
-package com.xworkz.java_programs.collection.collection2.arraylist.ex1;
+package collection.arraylist.ex1;
 
 public class ShoppingCartDTO {
 	
