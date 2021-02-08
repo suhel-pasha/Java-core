@@ -1,0 +1,29 @@
+header {
+    font-size: 30px;
+    margin-top: 25px;
+    margin-left: 25px;
+    color: rgb(48, 153, 172);
+}
+#underline {
+    margin-left: 25px;
+    color: rgb(48, 153, 172);
+}
+#address {
+    margin-left: 25px;
+
+}
+.titles {
+    font-size: 25px;
+    margin-left: 25px;
+    text-decoration: solid;
+    color: rgb(48, 153, 172);
+
+}
+#edu {
+    margin-left: 25px;
+    text-decoration: solid;
+
+}
+#stream, .desc {
+    margin-left: 25px;
+}
